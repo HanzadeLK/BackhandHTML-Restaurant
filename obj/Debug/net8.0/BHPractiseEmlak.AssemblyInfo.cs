@@ -16,7 +16,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("BHPractiseEmlak")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+cbd74aeba1649e609eeb6c662fbc806af0d6d704")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+96bee3be586eb642c7a10f4e18c700b6b7be8003")]
 [assembly: System.Reflection.AssemblyProductAttribute("BHPractiseEmlak")]
 [assembly: System.Reflection.AssemblyTitleAttribute("BHPractiseEmlak")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
